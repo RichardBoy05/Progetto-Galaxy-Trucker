@@ -2,13 +2,10 @@
 [![ita](https://img.shields.io/badge/lang-ita-green.svg)](README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README-ENG.md)
 
-## ⚠️ DISCLAIMER
-
-> Le risorse grafiche (tessere, carte, icone) **non sono incluse** in questa repository in quanto protette da copyright.
-> I diritti sul materiale originale appartengono a **[Czech Games Edition (CGE)](https://www.czechgames.com/)** e, per l'edizione italiana, a **[Cranio Creations](https://www.craniocreations.it/)**.
->
-> Questo software è stato sviluppato **esclusivamente a scopo didattico ed educativo**.
-> Il progetto non ha fini di lucro e non è inteso per la distribuzione commerciale.
+> **DISCLAIMER**
+> 
+> Le risorse grafiche (tessere, carte, icone) **NON sono incluse** in questa repository in quanto protette da copyright.
+> I diritti sul materiale originale appartengono a **[Czech Games Edition (CGE)](https://www.czechgames.com/)** e, per l'edizione italiana, a **[Cranio Creations](https://www.craniocreations.it/)**. Questo software è stato sviluppato **esclusivamente a scopo didattico ed educativo**, non ha fini di lucro e non è inteso per la distribuzione commerciale.
 
 ---
 
