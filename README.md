@@ -1,4 +1,6 @@
 # 🚀 Galaxy Trucker - Corso di Programmazione ad Oggetti - Gruppo 27
+[![ita](https://img.shields.io/badge/lang-ita-green.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README-ENG.md)
 
 ## ⚠️ DISCLAIMER
 
