@@ -31,8 +31,7 @@
 ## 📘 Descrizione del progetto
 
 Questa repository contiene una versione digitale del gioco da tavolo Galaxy Trucker, sviluppata interamente in Java.
-L'interfaccia grafica è realizzata utilizzando Java **Swing** ed è stata progettata e testata su un sistema **Windows**.
-Si segnala la presenza di alcune lievi imperfezioni grafiche riscontrabili in altri sistemi fra cui MacOS.
+L'interfaccia grafica è realizzata utilizzando Java **Swing**.
 
 ---
 
